@@ -16,7 +16,7 @@ import android.widget.Toast;
 import java.io.IOException;
 
 /*
-    Object is to create Context Menu, Options Menu, and Web view.
+    Object is to create Context Menu, Options Menu, Toast, and Web view.
  */
 
 public class MainActivity extends AppCompatActivity {
